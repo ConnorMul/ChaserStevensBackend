@@ -5,4 +5,4 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-Poem.create({title: "", content: "", date: ""})
+Poem.create({title: "The Exploration", content: "Self Fulfillment", date: "05/08/2021"})
