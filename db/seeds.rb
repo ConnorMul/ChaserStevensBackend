@@ -8,4 +8,4 @@
 Poem.create({title: "The Exploration", content: "Self Fulfillment", date: "05/08/2021"})
 Poem.create({tite: "The One", content: "He was the one", date: "05/12/2021"})
 Poem.create({title: "The Beginning of the End", content: "It was just the end", date: "05/17/2021"})
-Poem.create({title})
+Poem.create({title: "Placeholder", content: "Placeholder", date: "05/17/2021"})
