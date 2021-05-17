@@ -6,3 +6,4 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 Poem.create({title: "The Exploration", content: "Self Fulfillment", date: "05/08/2021"})
+Poem.create({tite: "The One", content: "He was the one", date: "05/12/2021"})
